@@ -1,1 +1,11 @@
 Landing about family. Author ewgenij87sn@gmail.com
+
+Start-portfolio
+1. Git
+2. Animate.css
+3. Circle animation for 7 elements
+4. Adaptive must be: 
+	4.1 For 2-3 display (retina, popular home PC)
+	4.2 	3 formats for print (A4, A5, A2)
+	4.3 	5-7 phone display (test friends phone)
+	4.4 	
